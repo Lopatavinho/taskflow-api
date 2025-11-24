@@ -35,7 +35,7 @@ Antes de começar, instale:
 # 📥 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/taskflow-api.git
+git clone https://github.com/Lopatavinho/taskflow-api.git
 cd taskflow-api/TaskFlow.Api
 🐳 2. Subir o banco SQL Server no Docker
 
